@@ -11,4 +11,4 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b> [Port Scanner](https://github.com/ayeyocyber/configure-ad)</b>
+- <b> [Port Scanner](https://github.com/ayeyocyber/port-scanner)</b>
