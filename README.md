@@ -8,3 +8,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ayeyocyber/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ayeyocyber/azure-network-protocols)
+
+<h2> Cybersecurity Projects:</h2>
+
+- <b> [Port Scanner](https://github.com/ayeyocyber/configure-ad)</b>
+  - [Port Scanner](https://github.com/ayeyocyber/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ayeyocyber/azure-network-protocols)
