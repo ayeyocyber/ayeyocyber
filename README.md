@@ -11,4 +11,4 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b> [Port Scanner](https://github.com/ayeyocyber/port-scanner)</b>
+- <b> [Password-Strength-Checker](https://github.com/ayeyocyber/Password-Strength-Checker)</b>
