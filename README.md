@@ -1,4 +1,4 @@
-<h1> I'm Jaden, an <a href="https://www.linkedin.com/in/jaden-wright-301641347/">IT & future Cybersecurity Professional</a></h1>
+<h1> I'm Jaden, an <a href="https://www.linkedin.com/in/jaden-wright-301641347/">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
